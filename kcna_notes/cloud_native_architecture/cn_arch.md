@@ -10,7 +10,7 @@ Popular technologies used in cloud native architecture include:
 - **Serverless Computing:** A model where cloud providers manage the infrastructure and automatically scale resources based on demand, allowing developers to focus on writing code.
 These technologies, among others, enable organizations to build and run scalable and resilient applications in the cloud.
 
-[**K8s and Cloud Native Essentials**]()
+[**K8s and Cloud Native Essentials**](https://kevinsulatra.github.io/k8snotes/kcna_notes/k8s_cloud_native_essentials.html)
 
 [**Characteristics of Cloud Native Architecture**]()
 
