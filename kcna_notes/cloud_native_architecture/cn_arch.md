@@ -27,3 +27,6 @@ These technologies, among others, enable organizations to build and run scalable
 [**CNCF Graduation Criteria v1.3**]()
 
 [**Additional Resources**]()
+
+
+## [**KCNA**](https://kevinsulatra.github.io/k8snotes/kcna_notes/kcna.html)
