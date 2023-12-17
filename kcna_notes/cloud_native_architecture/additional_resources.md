@@ -1,2 +1,2 @@
-## [**KCNA NOTES**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cn_arch.html)
-## [**Container Orchestration**](https://kevinsulatra.github.io/k8snotes/kcna_notes/container_orchestration.html)
+## [**Cloud Native Architecture**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cn_arch.html)
+## [**KCNA NOTES**](https://kevinsulatra.github.io/k8snotes/kcna_notes/kcna.html)
