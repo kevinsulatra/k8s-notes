@@ -81,4 +81,5 @@ Some of the key principles of The 12 Factor App include:
 By following The 12 Factor App methodology, developers can create applications that are easier to develop, deploy, and scale. The principles help to promote modularity, scalability, and resilience in modern cloud environments.
 
 ## [**Autoscaling**](https://kevinsulatra.github.io/k8snotes/kcna_notes/autoscaling.html)
+
 ## [**KCNA NOTES**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cn_arch.html)
