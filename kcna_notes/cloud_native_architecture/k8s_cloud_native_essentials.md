@@ -30,4 +30,4 @@ In summary, understanding and mastering K8s and cloud native essentials is cruci
 - Cloud native architecture requires fulfilling certain requirements to work efficiently.
 
 
-## [**Cloud Native Architecture**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cn_arch.html)
+## [**Cloud Native Architecture**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cloud_native_architecture/cn_arch.html)
