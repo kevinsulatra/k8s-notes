@@ -12,21 +12,21 @@ These technologies, among others, enable organizations to build and run scalable
 
 [**K8s and Cloud Native Essentials**](https://kevinsulatra.github.io/k8snotes/kcna_notes/k8s_cloud_native_essentials.html)
 
-[**Characteristics of Cloud Native Architecture**]()
+[**Characteristics of Cloud Native Architecture**](https://kevinsulatra.github.io/k8snotes/kcna_notes/characteristics.html)
 
-[**Autoscaling**]()
+[**Autoscaling**](https://kevinsulatra.github.io/k8snotes/kcna_notes/autoscaling.html)
 
-[**Serverless**]()
+[**Serverless**](https://kevinsulatra.github.io/k8snotes/kcna_notes/serverless.html)
 
-[**Open Standards**]()
+[**Open Standards**](https://kevinsulatra.github.io/k8snotes/kcna_notes/open_standards.html)
 
-[**Cloud Native Roles & Site Reliability Engineering**]()
+[**Cloud Native Roles & Site Reliability Engineering**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cloud_native_roles.html)
 
-[**Community and Governance**]()
+[**Community and Governance**](https://kevinsulatra.github.io/k8snotes/kcna_notes/community_governance.html)
 
-[**CNCF Graduation Criteria v1.3**]()
+[**CNCF Graduation Criteria v1.3**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cncf_gradu_criteria.html)
 
-[**Additional Resources**]()
+[**Additional Resources**](https://kevinsulatra.github.io/k8snotes/kcna_notes/additional_resources.html)
 
 
 ## [**KCNA**](https://kevinsulatra.github.io/k8snotes/kcna_notes/kcna.html)
