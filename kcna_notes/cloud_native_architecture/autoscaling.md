@@ -6,7 +6,6 @@ Autoscaling is often based on metrics like CPU and memory, but other methods suc
 
 Scaling your applications and infrastructure can significantly increase availability and resilience, even in more traditional environments.
 
-
 ### [**Serverless**](https://kevinsulatra.github.io/k8snotes/kcna_notes/serverless.html)
 
 ### [**KCNA NOTES**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cn_arch.html)
