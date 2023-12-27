@@ -10,23 +10,23 @@ Popular technologies used in cloud native architecture include:
 - **Serverless Computing:** A model where cloud providers manage the infrastructure and automatically scale resources based on demand, allowing developers to focus on writing code.
 These technologies, among others, enable organizations to build and run scalable and resilient applications in the cloud.
 
-[**K8s and Cloud Native Essentials**](https://kevinsulatra.github.io/k8snotes/kcna_notes/k8s_cloud_native_essentials.html)
+[**K8s and Cloud Native Essentials**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cloud_native_architecture/k8s_cloud_native_essentials.html)
 
-[**Characteristics of Cloud Native Architecture**](https://kevinsulatra.github.io/k8snotes/kcna_notes/characteristics.html)
+[**Characteristics of Cloud Native Architecture**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cloud_native_architecture/characteristics.html)
 
-[**Autoscaling**](https://kevinsulatra.github.io/k8snotes/kcna_notes/autoscaling.html)
+[**Autoscaling**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cloud_native_architecture/autoscaling.html)
 
-[**Serverless**](https://kevinsulatra.github.io/k8snotes/kcna_notes/serverless.html)
+[**Serverless**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cloud_native_architecture/serverless.html)
 
-[**Open Standards**](https://kevinsulatra.github.io/k8snotes/kcna_notes/open_standards.html)
+[**Open Standards**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cloud_native_architecture/open_standards.html)
 
-[**Cloud Native Roles & Site Reliability Engineering**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cloud_native_roles.html)
+[**Cloud Native Roles & Site Reliability Engineering**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cloud_native_architecture/cloud_native_roles.html)
 
-[**Community and Governance**](https://kevinsulatra.github.io/k8snotes/kcna_notes/community_governance.html)
+[**Community and Governance**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cloud_native_architecture/community_governance.html)
 
-[**CNCF Graduation Criteria v1.3**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cncf_gradu_criteria.html)
+[**CNCF Graduation Criteria v1.3**](https://kevinsulatra.github.io/k8snotes/cloud_native_architecture/kcna_notes/cncf_gradu_criteria.html)
 
-[**Additional Resources**](https://kevinsulatra.github.io/k8snotes/kcna_notes/additional_resources.html)
+[**Additional Resources**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cloud_native_architecture/additional_resources.html)
 
 
-## [**KCNA**](https://kevinsulatra.github.io/k8snotes/kcna_notes/kcna.html)
+### [**KCNA**](https://kevinsulatra.github.io/k8snotes/kcna_notes/kcna.html)
