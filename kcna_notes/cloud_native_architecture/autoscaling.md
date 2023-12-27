@@ -8,4 +8,4 @@ Scaling your applications and infrastructure can significantly increase availabi
 
 ![Vertical VS Horizontal Scaling](../images/horizontalvsverticalscaling.png)
 
-### [**KCNA NOTES**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cn_arch.html)
+### [**Cloud Native Architecture**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cn_arch.html)

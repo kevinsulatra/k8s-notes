@@ -19,4 +19,4 @@
 - **Error Budget:**
     - Around these metrics, SREs might define an error budget. An error budget defines the amount (or time) of errors your application can have before actions are taken, like stopping deployments to production.
 
-### [**KCNA NOTES**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cloud_native_architecture/cn_arch.html)
+### [**Cloud Native Architecture**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cloud_native_architecture/cn_arch.html)
