@@ -30,7 +30,7 @@ The CNCF Graduation Criteria v1.3 is an important resource for both project main
 - Clearly documented security processes for reporting and resolving security issues
 - Specifications have at least one public reference implementation
 
-### Graduation Stage
+## Graduation Stage
 
 To graduate from sandbox or incubating status, or for a new project to join as a graduated project, a project must meet the incubation stage criteria plus:
 
@@ -42,4 +42,4 @@ To graduate from sandbox or incubating status, or for a new project to join as a
 - Have a public list of project adopters for at least the primary repo (e.g., [ADOPTERS.md](http://adopters.md/) or logos on the project website). For a specification, have a list of adopters for the implementation(s) of the spec.
 - Receive a supermajority vote from the TOC to move to graduation stage. Projects can attempt to move directly from sandbox to graduation, if they can demonstrate sufficient maturity. Projects can remain in an incubating state indefinitely, but they are normally expected to graduate within two years
 
-### [**Cloud Native Architecture**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cn_arch.html)
+### [**Cloud Native Architecture**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cloud_native_architecture/cn_arch.html)

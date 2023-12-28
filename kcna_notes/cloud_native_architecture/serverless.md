@@ -10,4 +10,4 @@
 - CloudEvents simplifies event declaration and delivery across different platforms.
 - Applications written for serverless platforms have strict requirements for cloud-native architecture.
 
-### [**Cloud Native Architecture**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cn_arch.html)
+### [**Cloud Native Architecture**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cloud_native_architecture/cn_arch.html)

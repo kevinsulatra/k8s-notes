@@ -30,4 +30,4 @@
 - [SRE Book](https://sre.google/sre-book/introduction/), by Benjamin Treynor Sloss (2017)
 - [DevOps, SRE, and Platform Engineering](https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/), by Ivan Velicho (2021)
 
-### [**Cloud Native Architecture**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cn_arch.html)
+### [**Cloud Native Architecture**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cloud_native_architecture/cn_arch.html)
