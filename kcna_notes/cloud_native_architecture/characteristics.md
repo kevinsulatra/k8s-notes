@@ -82,4 +82,4 @@ By following The 12 Factor App methodology, developers can create applications t
 
 ## [**Autoscaling**](https://kevinsulatra.github.io/k8snotes/kcna_notes/autoscaling.html)
 
-## [**Cloud Native Architecture**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cn_arch.html)
+## [**Cloud Native Architecture**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cloud_native_architecture/cn_arch.html)

@@ -9,4 +9,4 @@
 - Other open standards include OCI Spec, CNI, CRI, CSI, and SMI.
 - Systems like Prometheus and OpenTelemetry provide additional standards for monitoring and observability.
 
-### [**Cloud Native Architecture**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cn_arch.html)
+### [**Cloud Native Architecture**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cloud_native_architecture/cn_arch.html)
