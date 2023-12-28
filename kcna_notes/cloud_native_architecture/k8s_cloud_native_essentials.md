@@ -10,7 +10,7 @@ By adopting cloud native practices, organizations can develop applications that 
 
 In summary, understanding and mastering K8s and cloud native essentials is crucial for modern software development teams, as they provide the foundation for building scalable, resilient, and cloud-ready applications.
 
-**Cloud Native Architecture Fundamentals**
+## **Cloud Native Architecture Fundamentals**
 
 - At the core, the idea of cloud native architecture is to optimize software for cost efficiency, reliability, and faster time-to-market.
 - Cloud native architecture combines cultural, technological, and architectural design patterns.
@@ -19,7 +19,7 @@ In summary, understanding and mastering K8s and cloud native essentials is cruci
 - Cloud native enables loosely coupled systems that are resilient, manageable, and observable.
 - Robust automation combined with cloud native techniques allows engineers to make high-impact changes frequently and predictably with minimal toil.
 
-**Monolithic vs Microservices Architecture**
+## **Monolithic vs Microservices Architecture**
 
 - Traditional or legacy applications are usually designed with a monolithic approach, where all functionality is self-contained in a single binary file.
 - Monolithic applications can be easy to develop and deploy but difficult to manage complexity, scale development across multiple teams, and implement changes fast.
@@ -28,6 +28,5 @@ In summary, understanding and mastering K8s and cloud native essentials is cruci
 - Multiple teams can own different functions of the application and operate and scale them individually.
 - Microservices architecture allows for scalability and efficient resource utilization based on demand.
 - Cloud native architecture requires fulfilling certain requirements to work efficiently.
-
 
 ### [**Cloud Native Architecture**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cloud_native_architecture/cn_arch.html)

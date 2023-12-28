@@ -30,7 +30,7 @@ The CNCF Graduation Criteria v1.3 is an important resource for both project main
 - Clearly documented security processes for reporting and resolving security issues
 - Specifications have at least one public reference implementation
 
-### Graduation Stage
+## Graduation Stage
 
 To graduate from sandbox or incubating status, or for a new project to join as a graduated project, a project must meet the incubation stage criteria plus:
 

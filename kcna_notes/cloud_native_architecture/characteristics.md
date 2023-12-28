@@ -11,7 +11,7 @@ A good baseline and starting point for your cloud native journey is the twelve-f
 
 While these patterns and technologies provide full advantage if they run in the cloud, they can also offer a lot of benefits when applied to on-premises systems. Last but not least, they allow a smoother transition if you migrate your applications and infrastructure to the cloud.
 
-### **High level of automation**
+## **High level of automation**
 
 To manage all the moving parts of your cloud-native application, automation is recommended in every step from development to deployment. This can be achieved by using modern automation tools and Continuous Integration/Continuous Delivery (CI/CD) pipelines. CI/CD pipelines are a concept used for the multiple steps involved in delivering a new version of your software and are backed by a version control system like git.
 
@@ -21,26 +21,26 @@ Benefits of automation include:
 - Minimal human involvement in building, testing, and deploying applications and infrastructure
 - Easier disaster recovery in case of system rebuild
 
-### **Self Healing**
+## **Self Healing**
 
 - Applications and infrastructure can fail periodically.
 - Cloud native frameworks and infrastructure components have built-in health checks to monitor applications from the inside.
 - Health checks enable automatic restart of applications if needed.
 - Compartmentalization of applications allows for isolated failures, where only certain parts may stop working or slow down while others remain unaffected.
 
-### **Scalable**
+## **Scalable**
 
 Scaling your application refers to the process of handling increased workload while maintaining a positive user experience. One approach to scaling is running multiple instances of the same application and distributing the workload among them. Automating this process based on application metrics such as CPU or memory usage can further enhance the availability and performance of your services.
 
-### **(Cost-) Efficient**
+## **(Cost-) Efficient**
 
 Just like scaling up your application for high traffic situations, scaling down your application and utilizing usage-based pricing models of cloud providers can save costs if traffic is low. To optimize your infrastructure usage, orchestration systems like Kubernetes can help with more efficient and denser placement of applications.
 
-### **Easy to maintain**
+## **Easy to maintain**
 
 Using Microservices allows applications to be broken down into smaller pieces, which makes them easier to maintain. This approach also makes the applications more portable, easier to test, and enables distribution across multiple teams. By adopting a microservices architecture, organisations can achieve improved maintainability and flexibility in their software systems.
 
-### **Secure by default**
+## **Secure by default**
 
 Cloud environments are often shared between multiple customers or teams, which calls for different security models. In the past, a lot of systems were divided into different security zones that denied access from different networks or people. Once you're inside a zone, you can access every system inside. However, this approach poses significant security risks as any compromised system within the zone can potentially access all other systems.
 
@@ -50,14 +50,14 @@ One of the prominent patterns that aligns with the Secure by Default principle i
 
 Implementing Secure by Default and adopting patterns like zero trust computing are crucial steps in safeguarding cloud environments and protecting sensitive data from unauthorized access and potential breaches.
 
-### **Zero Trust Computing Principles**
+## **Zero Trust Computing Principles**
 
 - Zero trust computing assumes that no user or process should be inherently trusted, regardless of their location or network.
 - It requires continuous authentication and verification of every user and process, even if they are already inside a trusted zone.
 - By implementing zero trust principles, organisations can significantly mitigate the risks associated with shared cloud environments.
 - Zero trust computing ensures that security is prioritised at every level to protect sensitive data from unauthorized access and potential breaches.
 
-### **The 12 Factor App**
+## **The 12 Factor App**
 
 The 12 Factor App is a methodology for building software-as-a-service (SaaS) applications. It was created by developers at Heroku and has become a popular approach for designing and developing modern cloud-native applications.
 
@@ -80,6 +80,4 @@ Some of the key principles of The 12 Factor App include:
 
 By following The 12 Factor App methodology, developers can create applications that are easier to develop, deploy, and scale. The principles help to promote modularity, scalability, and resilience in modern cloud environments.
 
-## [**Autoscaling**](https://kevinsulatra.github.io/k8snotes/kcna_notes/autoscaling.html)
-
-## [**Cloud Native Architecture**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cloud_native_architecture/cn_arch.html)
+### [**Cloud Native Architecture**](https://kevinsulatra.github.io/k8snotes/kcna_notes/cloud_native_architecture/cn_arch.html)
