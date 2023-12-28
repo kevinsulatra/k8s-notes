@@ -28,25 +28,26 @@ Regarding storage, container orchestration requires:
 2. **Volume Management**: Container orchestration frameworks need to provide mechanisms for managing storage volumes and attaching them to containers.
 3. **Data Replication**: Data replication mechanisms may be needed to ensure data availability and durability across multiple containers or hosts.
 
-[**Use of Containers**]()
+[**Use of Containers**](https://kevinsulatra.github.io/k8snotes/kcna_notes/container_orchestration/use_of_containers.html)
 
-[**Container Basics**]()
+[**Container Basics**](https://kevinsulatra.github.io/k8snotes/kcna_notes/container_orchestration/basics.html)
 
-[**Running Containers**]()
+[**Running Containers**](https://kevinsulatra.github.io/k8snotes/kcna_notes/container_orchestration/running_containers.html)
 
-[**Building Container Images**]()
+[**Building Container Images**](https://kevinsulatra.github.io/k8snotes/kcna_notes/container_orchestration/building_images.html)
 
-[**Security**]()
+[**Security**](https://kevinsulatra.github.io/k8snotes/kcna_notes/container_orchestration/security.html)
 
-[**Container Orchestration Fundamentals**]()
+[**Container Orchestration Fundamentals**](https://kevinsulatra.github.io/k8snotes/kcna_notes/container_orchestration/fundamentals.html)
 
-[**Networking**]()
+[**Networking**](https://kevinsulatra.github.io/k8snotes/kcna_notes/container_orchestration/networking.html)
 
-[**Service Discovery & DNS**]()
+[**Service Discovery & DNS**](https://kevinsulatra.github.io/k8snotes/kcna_notes/container_orchestration/service_discovery.html)
 
-[**Service Mesh**]()
+[**Service Mesh**](https://kevinsulatra.github.io/k8snotes/kcna_notes/container_orchestration/service_mesh.html)
 
-[**Storage**]()
+[**Storage**](https://kevinsulatra.github.io/k8snotes/kcna_notes/container_orchestration/storage.html)
 
-[**Additional Resources**]()
+[**Additional Resources**](https://kevinsulatra.github.io/k8snotes/kcna_notes/container_orchestration/additional_resources.html)
 
+### [**KCNA**](https://kevinsulatra.github.io/k8snotes/kcna_notes/kcna.html)
