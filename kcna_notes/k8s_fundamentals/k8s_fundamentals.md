@@ -7,16 +7,18 @@
     - It serves as a centerpiece for various cloud-native technologies, including container runtimes, monitoring, and application delivery tools.
     - Professionals with Kubernetes skills, both in administration and development, are highly sought after in the modern cloud platform landscape.
 
-[**Kubernetes Architecture**]()
+[**Kubernetes Architecture**](https://kevinsulatra.github.io/k8snotes/kcna_notes/k8s_fundamentals/k8s_arch.html)
 
-[**K8s Setup**]()
+[**K8s Setup**](https://kevinsulatra.github.io/k8snotes/kcna_notes/k8s_fundamentals/k8s_setup.html)
 
-[**K8s API**]()
+[**K8s API**](https://kevinsulatra.github.io/k8snotes/kcna_notes/k8s_fundamentals/k8s_api.html)
 
-[**Running Containers on Kubernetes**]()
+[**Running Containers on Kubernetes**](https://kevinsulatra.github.io/k8snotes/kcna_notes/k8s_fundamentals/containers_on_k8s.html)
 
-[**Networking**]()
+[**Networking**](https://kevinsulatra.github.io/k8snotes/kcna_notes/k8s_fundamentals/k8s_networking.html)
 
-[**Scheduling**]()
+[**Scheduling**](https://kevinsulatra.github.io/k8snotes/kcna_notes/k8s_fundamentals/k8s_scheduling.html)
 
-[**Additional Resources**]()
+[**Additional Resources**](https://kevinsulatra.github.io/k8snotes/kcna_notes/k8s_fundamentals/additional_resources.html)
+
+### [**KCNA**](https://kevinsulatra.github.io/k8snotes/kcna_notes/kcna.html)
