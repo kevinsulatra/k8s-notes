@@ -36,3 +36,5 @@ If you don’t want to install and manage it yourself, you can consume it from a
 ## Interactive Tutorial - Create a Cluster
 
 You can learn how to set up your own Kubernetes cluster with Minikube in this [interactive tutorial](https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/).
+
+### [Kubernetes Fundamentals](https://kevinsulatra.github.io/k8snotes/kcna_notes/k8s_fundamentals/k8s_fundamentals.html)
